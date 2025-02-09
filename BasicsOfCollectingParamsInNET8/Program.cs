@@ -15,8 +15,6 @@
 			Console.ReadKey();
 		}
 
-
-
 		public class Employee
 		{
 			public List<string> _employees;
