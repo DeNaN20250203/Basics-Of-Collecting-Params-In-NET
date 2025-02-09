@@ -1,0 +1,14 @@
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\bin\Release\net8.0\BasicsOfCollectingParamsInNET8.exe
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\bin\Release\net8.0\BasicsOfCollectingParamsInNET8.deps.json
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\bin\Release\net8.0\BasicsOfCollectingParamsInNET8.runtimeconfig.json
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\bin\Release\net8.0\BasicsOfCollectingParamsInNET8.dll
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\bin\Release\net8.0\BasicsOfCollectingParamsInNET8.pdb
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\obj\Release\net8.0\BasicsOfCollectingParamsInNET8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\obj\Release\net8.0\BasicsOfCollectingParamsInNET8.AssemblyInfoInputs.cache
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\obj\Release\net8.0\BasicsOfCollectingParamsInNET8.AssemblyInfo.cs
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\obj\Release\net8.0\BasicsOfCollectingParamsInNET8.csproj.CoreCompileInputs.cache
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\obj\Release\net8.0\BasicsOfCollectingParamsInNET8.dll
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\obj\Release\net8.0\refint\BasicsOfCollectingParamsInNET8.dll
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\obj\Release\net8.0\BasicsOfCollectingParamsInNET8.pdb
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\obj\Release\net8.0\BasicsOfCollectingParamsInNET8.genruntimeconfig.cache
+C:\Work\Visual Studio 2013\Work\Net9\BasicsOfCollectingParamsInNET9\BasicsOfCollectingParamsInNET8\obj\Release\net8.0\ref\BasicsOfCollectingParamsInNET8.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BasicsOfCollectingParamsInNET9/1.0.0": {
+        "runtime": {
+          "BasicsOfCollectingParamsInNET9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicsOfCollectingParamsInNET9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
