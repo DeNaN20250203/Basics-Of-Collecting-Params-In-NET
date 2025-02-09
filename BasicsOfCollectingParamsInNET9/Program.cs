@@ -1,10 +1,10 @@
 ﻿namespace BasicsOfCollectingParamsInNET9
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, .NET9!");
+	internal class Program
+	{
+        	static void Main(string[] args)
+       		{
+	        	Console.WriteLine("Hello, .NET9!");
 			Employee employees = new Employee("Potter", "Vovan");
 			employees._employees.AddRange("Poc", "NaN");
 
