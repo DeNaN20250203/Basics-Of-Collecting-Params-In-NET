@@ -34,3 +34,44 @@
 >></br>
 <a target="_blank" href="https://github.com/DeNaN20250203"><img src="GitHubDeJra.png" alt="Image" width = "600" /></a>
 [Верх](#anchor)
+
+## Пример кода для C#13 .Net9
+```csharp
+void Main()
+{
+	Console.WriteLine("Hello, .NET9!");
+	Employee employees = new Employee("Potter", "Vovan");
+	employees._employees.AddRange("Poc", "NaN");
+
+	foreach (var item in employees._employees)
+	{
+		Console.WriteLine(item);
+	}
+	Console.ReadKey();
+	}
+}
+
+public class Employee
+{
+	public List<string> _employees;
+	public Employee(params List<string> employees)
+	{
+		_employees = employees;
+	}
+}
+```
+
+## Пример кода для C#12 и .Net8 (класс так же, как и в .Net9)…
+```csharp
+void Main()
+{
+	Console.WriteLine ("Hello, .NET8!");
+	Employee employees = new Employee (new List<string> { "Potter", "Vovan" });
+	employees._employees.AddRange (new List<string> { "Poc", "NaN" });
+
+	foreach (var item in employees._employees)
+	{
+		Console.WriteLine (item);
+	}
+}
+```
