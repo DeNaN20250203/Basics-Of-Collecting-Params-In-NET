@@ -34,3 +34,5 @@
 >></br>
 <a target="_blank" href="https://github.com/DeNaN20250203"><img src="GitHubDeJra.png" alt="Image" width = "600" /></a>
 [Верх](#anchor)
+
+<a href="https://vkvideo.ru/video614312645_456239030" target="_blank"><img src="20250210_004.png" alt="IMAGE ALT TEXT HERE" width="240" border="10" /></a>
