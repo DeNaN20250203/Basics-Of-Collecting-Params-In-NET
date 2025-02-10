@@ -4,7 +4,7 @@
 ## Основы сбора параметров в .NET 9 и .NET 8 за 3 минуты...
 ---
 
-<a target="_blank" href="https://vkvideo.ru/video614312645_456239030"><img src="https://i.ytimg.com/vi/RM4PcnBqWXI/mqdefault.jpg" alt="Image" width = "600" /></a>
+<a target="_blank" href="https://vkvideo.ru/video614312645_456239030"><img src="123.jpeg" alt="Image" width = "600" /></a>
 
 ### Введение
 >	![image](https://github.com/user-attachments/assets/dcdba846-a86e-4aba-b227-3e54a666a125) В этом видео (нажмите на картинку вверху…) мы рассмотрим новую функцию параметров коллекций, представленную в .NET 9. Мы создадим два проекта: один на .NET 8 и другой на .NET 9, чтобы продемонстрировать, как использовать эту функцию и какие преимущества она предоставляет.</br>
